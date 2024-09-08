@@ -1,0 +1,17 @@
+openai
+python-dotenv
+pandas
+pydantic
+requests
+beautifulsoup4
+html2text
+tiktoken
+selenium
+readability-lxml
+streamlit
+streamlit-tags
+openpyxl
+groq
+google-generativeai    
+streamlit_lottie
+-e .
