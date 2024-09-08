@@ -51,7 +51,7 @@ streamlit run app.py
 
 ## License :
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/TravelPlanner-CrewAi-Agents-Streamlit/blob/main/LICENSE)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/universal-web-scraper-using-generative-ai/blob/main/LICENSE)
 
 
 ## Follow Me :
