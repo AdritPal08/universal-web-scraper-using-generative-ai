@@ -1,0 +1,254 @@
+{
+    "listings": [
+        {
+            "Symbol": "HEWJ",
+            "Price": "39.53 +0.97 (+2.52%)",
+            "Change": "+0.97",
+            "Change%": "+2.52%",
+            "Volume": "6,719",
+            "50 Day Average": "41.55",
+            "YTD Return": "+20.83%",
+            "Day Chart": "[ ](/chart/HEWJ)"
+        },
+        {
+            "Symbol": "BLOK",
+            "Price": "33.11 +0.76 (+2.35%)",
+            "Change": "+0.76",
+            "Change%": "+2.35%",
+            "Volume": "13,668",
+            "50 Day Average": "35.67",
+            "YTD Return": "+18.15%",
+            "Day Chart": "[ ](/chart/BLOK)"
+        },
+        {
+            "Symbol": "FLJH",
+            "Price": "29.39 +0.79 (+2.77%)",
+            "Change": "+0.79",
+            "Change%": "+2.77%",
+            "Volume": "4,061",
+            "50 Day Average": "30.59",
+            "YTD Return": "+19.92%",
+            "Day Chart": "[ ](/chart/FLJH)"
+        },
+        {
+            "Symbol": "DBJP",
+            "Price": "68.63 +1.54 (+2.29%)",
+            "Change": "+1.54",
+            "Change%": "+2.29%",
+            "Volume": "2,815",
+            "50 Day Average": "72.33",
+            "YTD Return": "+20.09%",
+            "Day Chart": "[ ](/chart/DBJP)"
+        },
+        {
+            "Symbol": "DXJ",
+            "Price": "101.67 +2.31 (+2.32%)",
+            "Change": "+2.31",
+            "Change%": "+2.32%",
+            "Volume": "126,668",
+            "50 Day Average": "107.27",
+            "YTD Return": "+22.12%",
+            "Day Chart": "[ ](/chart/DXJ)"
+        },
+        {
+            "Symbol": "PTF",
+            "Price": "57.42 +1.26 (+2.25%)",
+            "Change": "+1.26",
+            "Change%": "+2.25%",
+            "Volume": "1,632",
+            "50 Day Average": "60.83",
+            "YTD Return": "+23.62%",
+            "Day Chart": "[ ](/chart/PTF)"
+        },
+        {
+            "Symbol": "EWT",
+            "Price": "51.19 +1.10 (+2.21%)",
+            "Change": "+1.10",
+            "Change%": "+2.21%",
+            "Volume": "515,665",
+            "50 Day Average": "53.22",
+            "YTD Return": "+17.30%",
+            "Day Chart": "[ ](/chart/EWT)"
+        },
+        {
+            "Symbol": "BBJP",
+            "Price": "57.68 +1.26 (+2.23%)",
+            "Change": "+1.26",
+            "Change%": "+2.23%",
+            "Volume": "227.287k",
+            "50 Day Average": "57.30",
+            "YTD Return": "+13.85%",
+            "Day Chart": "[ ](/chart/BBJP)"
+        },
+        {
+            "Symbol": "GSJY",
+            "Price": "38.53 +0.82 (+2.17%)",
+            "Change": "+0.82",
+            "Change%": "+2.17%",
+            "Volume": "1,827",
+            "50 Day Average": "38.13",
+            "YTD Return": "+13.03%",
+            "Day Chart": "[ ](/chart/GSJY)"
+        },
+        {
+            "Symbol": "XSD",
+            "Price": "216.45 +4.56 (+2.15%)",
+            "Change": "+4.56",
+            "Change%": "+2.15%",
+            "Volume": "9,119",
+            "50 Day Average": "238.15",
+            "YTD Return": "+7.09%",
+            "Day Chart": "[ ](/chart/XSD)"
+        },
+        {
+            "Symbol": "FLTW",
+            "Price": "45.55 +0.96 (+2.15%)",
+            "Change": "+0.96",
+            "Change%": "+2.15%",
+            "Volume": "12,957",
+            "50 Day Average": "47.63",
+            "YTD Return": "+17.03%",
+            "Day Chart": "[ ](/chart/FLTW)"
+        },
+        {
+            "Symbol": "DXJS",
+            "Price": "32.69 +0.66 (+2.06%)",
+            "Change": "+0.66",
+            "Change%": "+2.06%",
+            "Volume": "2,501",
+            "50 Day Average": "33.52",
+            "YTD Return": "+14.19%",
+            "Day Chart": "[ ](/chart/DXJS)"
+        },
+        {
+            "Symbol": "PSCD",
+            "Price": "104.42 +2.06 (+2.01%)",
+            "Change": "+2.06",
+            "Change%": "+2.01%",
+            "Volume": "2",
+            "50 Day Average": "104.22",
+            "YTD Return": "+3.87%",
+            "Day Chart": "[ ](/chart/PSCD)"
+        },
+        {
+            "Symbol": "IPAC",
+            "Price": "63.60 +1.21 (+1.94%)",
+            "Change": "+1.21",
+            "Change%": "+1.94%",
+            "Volume": "2,898",
+            "50 Day Average": "62.47",
+            "YTD Return": "+10.75%",
+            "Day Chart": "[ ](/chart/IPAC)"
+        },
+        {
+            "Symbol": "VPL",
+            "Price": "75.71 +1.42 (+1.91%)",
+            "Change": "+1.42",
+            "Change%": "+1.91%",
+            "Volume": "28,223",
+            "50 Day Average": "75.24",
+            "YTD Return": "+8.86%",
+            "Day Chart": "[ ](/chart/VPL)"
+        },
+        {
+            "Symbol": "XAR",
+            "Price": "150.23 +2.82 (+1.91%)",
+            "Change": "+2.82",
+            "Change%": "+1.91%",
+            "Volume": "13,256",
+            "50 Day Average": "147.34",
+            "YTD Return": "+15.29%",
+            "Day Chart": "[ ](/chart/XAR)"
+        },
+        {
+            "Symbol": "PPA",
+            "Price": "109.95 +2.02 (+1.87%)",
+            "Change": "+2.02",
+            "Change%": "+1.87%",
+            "Volume": "47,646",
+            "50 Day Average": "107.41",
+            "YTD Return": "+23.40%",
+            "Day Chart": "[ ](/chart/PPA)"
+        },
+        {
+            "Symbol": "QLD",
+            "Price": "86.95 +1.51 (+1.77%)",
+            "Change": "+1.51",
+            "Change%": "+1.77%",
+            "Volume": "792,525",
+            "50 Day Average": "95.93",
+            "YTD Return": "+27.43%",
+            "Day Chart": "[ ](/chart/QLD)"
+        },
+        {
+            "Symbol": "EWJV",
+            "Price": "32.78 +0.58 (+1.78%)",
+            "Change": "+0.58",
+            "Change%": "+1.78%",
+            "Volume": "16,299",
+            "50 Day Average": "32.25",
+            "YTD Return": "+16.53%",
+            "Day Chart": "[ ](/chart/EWJV)"
+        },
+        {
+            "Symbol": "EWW",
+            "Price": "52.28 +0.86 (+1.67%)",
+            "Change": "+0.86",
+            "Change%": "+1.67%",
+            "Volume": "403,375",
+            "50 Day Average": "56.07",
+            "YTD Return": "-21.35%",
+            "Day Chart": "[ ](/chart/EWW)"
+        },
+        {
+            "Symbol": "KCE",
+            "Price": "118.47 +2.08 (+1.78%)",
+            "Change": "+2.08",
+            "Change%": "+1.78%",
+            "Volume": "2,571",
+            "50 Day Average": "116.56",
+            "YTD Return": "+20.21%",
+            "Day Chart": "[ ](/chart/KCE)"
+        },
+        {
+            "Symbol": "PRN",
+            "Price": "137.55 +2.33 (+1.72%)",
+            "Change": "+2.33",
+            "Change%": "+1.72%",
+            "Volume": "315",
+            "50 Day Average": "138.53",
+            "YTD Return": "+23.35%",
+            "Day Chart": "[ ](/chart/PRN)"
+        },
+        {
+            "Symbol": "IAI",
+            "Price": "125.04 +2.02 (+1.64%)",
+            "Change": "+2.02",
+            "Change%": "+1.64%",
+            "Volume": "7,590",
+            "50 Day Average": "122.57",
+            "YTD Return": "+18.47%",
+            "Day Chart": "[ ](/chart/IAI)"
+        },
+        {
+            "Symbol": "HAWX",
+            "Price": "31.56 +0.50 (+1.61%)",
+            "Change": "+0.50",
+            "Change%": "+1.61%",
+            "Volume": "4,533",
+            "50 Day Average": "31.82",
+            "YTD Return": "+13.52%",
+            "Day Chart": "[ ](/chart/HAWX)"
+        },
+        {
+            "Symbol": "LIT",
+            "Price": "35.58 +0.57 (+1.63%)",
+            "Change": "+0.57",
+            "Change%": "+1.63%",
+            "Volume": "37,276",
+            "50 Day Average": "38.06",
+            "YTD Return": "-25.36%",
+            "Day Chart": "[ ](/chart/LIT)"
+        }
+    ]
+}
