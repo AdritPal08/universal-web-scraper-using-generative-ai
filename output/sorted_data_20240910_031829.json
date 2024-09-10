@@ -1,0 +1,279 @@
+{
+    "listings": [
+        {
+            "Symbol": "BLOK",
+            "Price": "33.50",
+            "Change": "+1.15 (+3.55%)",
+            "Change%": "+3.55%",
+            "Volume": "106,587",
+            "50 Day Average": "35.67",
+            "200 Day Average": "32.43",
+            "3 Month Return": "6.61%",
+            "YTD Return": "+18.15%"
+        },
+        {
+            "Symbol": "FLJH",
+            "Price": "29.36",
+            "Change": "+0.76 (+2.66%)",
+            "Change%": "+2.66%",
+            "Volume": "20,127",
+            "50 Day Average": "30.59",
+            "200 Day Average": "30.31",
+            "3 Month Return": "-0.75%",
+            "YTD Return": "+19.92%"
+        },
+        {
+            "Symbol": "QLD",
+            "Price": "87.58",
+            "Change": "+2.14 (+2.50%)",
+            "Change%": "+2.50%",
+            "Volume": "2.211M",
+            "50 Day Average": "95.93",
+            "200 Day Average": "86.33",
+            "3 Month Return": "8.69%",
+            "YTD Return": "+27.43%"
+        },
+        {
+            "Symbol": "HEWJ",
+            "Price": "39.45",
+            "Change": "+0.89 (+2.31%)",
+            "Change%": "+2.31%",
+            "Volume": "66,367",
+            "50 Day Average": "41.55",
+            "200 Day Average": "39.97",
+            "3 Month Return": "-1.11%",
+            "YTD Return": "+20.83%"
+        },
+        {
+            "Symbol": "DBJP",
+            "Price": "68.62",
+            "Change": "+1.53 (+2.28%)",
+            "Change%": "+2.28%",
+            "Volume": "8,870",
+            "50 Day Average": "72.33",
+            "200 Day Average": "70.64",
+            "3 Month Return": "-1.09%",
+            "YTD Return": "+20.09%"
+        },
+        {
+            "Symbol": "EWT",
+            "Price": "51.22",
+            "Change": "+1.14 (+2.28%)",
+            "Change%": "+2.28%",
+            "Volume": "2.237M",
+            "50 Day Average": "53.22",
+            "200 Day Average": "49.36",
+            "3 Month Return": "6.99%",
+            "YTD Return": "+17.30%"
+        },
+        {
+            "Symbol": "SMH",
+            "Price": "219.86",
+            "Change": "+4.86 (+2.26%)",
+            "Change%": "+2.26%",
+            "Volume": "7.929M",
+            "50 Day Average": "245.26",
+            "200 Day Average": "217.74",
+            "3 Month Return": "1.30%",
+            "YTD Return": "+39.22%"
+        },
+        {
+            "Symbol": "DXJ",
+            "Price": "101.53",
+            "Change": "+2.17 (+2.18%)",
+            "Change%": "+2.18%",
+            "Volume": "767,522",
+            "50 Day Average": "107.27",
+            "200 Day Average": "102.94",
+            "3 Month Return": "-2.68%",
+            "YTD Return": "+22.12%"
+        },
+        {
+            "Symbol": "FLTW",
+            "Price": "45.52",
+            "Change": "+0.93 (+2.09%)",
+            "Change%": "+2.09%",
+            "Volume": "31,341",
+            "50 Day Average": "47.63",
+            "200 Day Average": "43.83",
+            "3 Month Return": "7.10%",
+            "YTD Return": "+17.03%"
+        },
+        {
+            "Symbol": "SOXX",
+            "Price": "207.96",
+            "Change": "+4.03 (+1.98%)",
+            "Change%": "+1.98%",
+            "Volume": "4.076M",
+            "50 Day Average": "232.11",
+            "200 Day Average": "216.63",
+            "3 Month Return": "-1.07%",
+            "YTD Return": "+20.71%"
+        },
+        {
+            "Symbol": "PPA",
+            "Price": "110.04",
+            "Change": "+2.11 (+1.95%)",
+            "Change%": "+1.95%",
+            "Volume": "158,114",
+            "50 Day Average": "107.41",
+            "200 Day Average": "99.69",
+            "3 Month Return": "8.29%",
+            "YTD Return": "+23.40%"
+        },
+        {
+            "Symbol": "DXJS",
+            "Price": "32.65",
+            "Change": "+0.62 (+1.94%)",
+            "Change%": "+1.94%",
+            "Volume": "14,726",
+            "50 Day Average": "33.52",
+            "200 Day Average": "32.55",
+            "3 Month Return": "-0.82%",
+            "YTD Return": "+14.19%"
+        },
+        {
+            "Symbol": "BBJP",
+            "Price": "57.51",
+            "Change": "+1.09 (+1.93%)",
+            "Change%": "+1.93%",
+            "Volume": "1.932M",
+            "50 Day Average": "57.30",
+            "200 Day Average": "55.73",
+            "3 Month Return": "5.49%",
+            "YTD Return": "+13.85%"
+        },
+        {
+            "Symbol": "GSJY",
+            "Price": "38.43",
+            "Change": "+0.72 (+1.90%)",
+            "Change%": "+1.90%",
+            "Volume": "9,451",
+            "50 Day Average": "38.13",
+            "200 Day Average": "37.26",
+            "3 Month Return": "5.39%",
+            "YTD Return": "+13.03%"
+        },
+        {
+            "Symbol": "XAR",
+            "Price": "150.13",
+            "Change": "+2.72 (+1.85%)",
+            "Change%": "+1.85%",
+            "Volume": "62,936",
+            "50 Day Average": "147.34",
+            "200 Day Average": "138.72",
+            "3 Month Return": "8.69%",
+            "YTD Return": "+15.29%"
+        },
+        {
+            "Symbol": "IPAC",
+            "Price": "63.53",
+            "Change": "+1.14 (+1.83%)",
+            "Change%": "+1.83%",
+            "Volume": "28,304",
+            "50 Day Average": "62.47",
+            "200 Day Average": "61.12",
+            "3 Month Return": "5.87%",
+            "YTD Return": "+10.75%"
+        },
+        {
+            "Symbol": "VPL",
+            "Price": "75.64",
+            "Change": "+1.35 (+1.82%)",
+            "Change%": "+1.82%",
+            "Volume": "201,490",
+            "50 Day Average": "75.24",
+            "200 Day Average": "73.50",
+            "3 Month Return": "5.48%",
+            "YTD Return": "+8.86%"
+        },
+        {
+            "Symbol": "BBAX",
+            "Price": "51.06",
+            "Change": "+0.88 (+1.75%)",
+            "Change%": "+1.75%",
+            "Volume": "309,562",
+            "50 Day Average": "49.49",
+            "200 Day Average": "48.39",
+            "3 Month Return": "5.58%",
+            "YTD Return": "+5.27%"
+        },
+        {
+            "Symbol": "XSD",
+            "Price": "215.54",
+            "Change": "+3.65 (+1.72%)",
+            "Change%": "+1.72%",
+            "Volume": "85,606",
+            "50 Day Average": "238.15",
+            "200 Day Average": "228.20",
+            "3 Month Return": "-2.13%",
+            "YTD Return": "+7.09%"
+        },
+        {
+            "Symbol": "PRN",
+            "Price": "137.52",
+            "Change": "+2.30 (+1.70%)",
+            "Change%": "+1.70%",
+            "Volume": "15,217",
+            "50 Day Average": "138.53",
+            "200 Day Average": "130.50",
+            "3 Month Return": "5.89%",
+            "YTD Return": "+23.35%"
+        },
+        {
+            "Symbol": "VFMO",
+            "Price": "150.58",
+            "Change": "+2.46 (+1.66%)",
+            "Change%": "+1.66%",
+            "Volume": "16,959",
+            "50 Day Average": "152.79",
+            "200 Day Average": "143.84",
+            "3 Month Return": "5.92%",
+            "YTD Return": "+20.99%"
+        },
+        {
+            "Symbol": "XLK",
+            "Price": "207.26",
+            "Change": "+3.34 (+1.64%)",
+            "Change%": "+1.64%",
+            "Volume": "5.4M",
+            "50 Day Average": "219.38",
+            "200 Day Average": "207.14",
+            "3 Month Return": "5.07%",
+            "YTD Return": "+14.91%"
+        },
+        {
+            "Symbol": "IXN",
+            "Price": "76.29",
+            "Change": "+1.21 (+1.61%)",
+            "Change%": "+1.61%",
+            "Volume": "99,495",
+            "50 Day Average": "80.84",
+            "200 Day Average": "74.69",
+            "3 Month Return": "6.75%",
+            "YTD Return": "+19.64%"
+        },
+        {
+            "Symbol": "FTXL",
+            "Price": "84.25",
+            "Change": "+1.30 (+1.57%)",
+            "Change%": "+1.57%",
+            "Volume": "54,715",
+            "50 Day Average": "94.31",
+            "200 Day Average": "88.24",
+            "3 Month Return": "0.21%",
+            "YTD Return": "+15.33%"
+        },
+        {
+            "Symbol": "XLI",
+            "Price": "127.82",
+            "Change": "+1.93 (+1.53%)",
+            "Change%": "+1.53%",
+            "Volume": "7.283M",
+            "50 Day Average": "125.47",
+            "200 Day Average": "120.33",
+            "3 Month Return": "6.86%",
+            "YTD Return": "+16.20%"
+        }
+    ]
+}

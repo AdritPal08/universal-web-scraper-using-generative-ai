@@ -236,8 +236,7 @@ def format_data(data, DynamicListingsContainer, DynamicListingModel, selected_mo
     
     if selected_model in ["gpt-4o-mini", "gpt-4o-2024-08-06"]:
         # Use OpenAI API
-        # client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-        client = OpenAI(api_key=st.secrets('OPENAI_API_KEY'))
+        client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
         completion = client.beta.chat.completions.parse(
             model=selected_model,
             messages=[
@@ -258,8 +257,7 @@ def format_data(data, DynamicListingsContainer, DynamicListingModel, selected_mo
 
     elif selected_model in ["gemini-1.5-flash", "gemini-1.5-pro","gemini-1.0-pro"]:
         # Use Google Gemini API
-        # genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-        genai.configure(api_key=st.secrets("GOOGLE_API_KEY"))
+        genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
         model = genai.GenerativeModel(selected_model,
                 generation_config={
                     "response_mime_type": "application/json",
@@ -283,8 +281,7 @@ def format_data(data, DynamicListingsContainer, DynamicListingModel, selected_mo
         sys_message = generate_system_message(DynamicListingModel)
         # print(SYSTEM_MESSAGE)
         # Point to the local server
-        # client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
-        client = Groq(api_key=st.secrets("GROQ_API_KEY"))
+        client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
         completion = client.chat.completions.create(
         messages=[

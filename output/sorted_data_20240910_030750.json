@@ -30,7 +30,7 @@
             "IFO 380": "--",
             "VLSFO 0.5%": "--",
             "MGO": "--",
-            "Date": "06 Sep"
+            "Date": "09 Sep"
         },
         {
             "Port": "Hamburg",
@@ -54,7 +54,7 @@
             "IFO 380": "--",
             "VLSFO 0.5%": "--",
             "MGO": "--",
-            "Date": "06 Sep"
+            "Date": "09 Sep"
         },
         {
             "Port": "Istanbul",
@@ -78,14 +78,6 @@
             "IFO 380": "--",
             "VLSFO 0.5%": "--",
             "MGO": "--",
-            "Date": "06 Sep"
-        },
-        {
-            "Port": "Off Malta",
-            "Country": "MT",
-            "IFO 380": "--",
-            "VLSFO 0.5%": "--",
-            "MGO": "--",
             "Date": "09 Sep"
         },
         {
@@ -94,14 +86,14 @@
             "IFO 380": "--",
             "VLSFO 0.5%": "--",
             "MGO": "--",
-            "Date": "06 Sep"
+            "Date": "09 Sep"
         },
         {
             "Port": "Rotterdam",
             "Country": "NL",
-            "IFO 380": "406.00",
-            "VLSFO 0.5%": "518.00",
-            "MGO": "612.50",
+            "IFO 380": "403.00",
+            "VLSFO 0.5%": "512.50",
+            "MGO": "619.50",
             "Date": "09 Sep"
         },
         {
